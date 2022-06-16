@@ -10,6 +10,6 @@ public class CalcController {
     @FXML
     protected void onHelloButtonClick() {
 
-        calcText.setText("Calculating");
+        calcText.setText("Your tip is");
     }
 }
